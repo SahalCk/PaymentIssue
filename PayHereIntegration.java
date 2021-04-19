@@ -17,15 +17,15 @@ import android.widget.Toast;
 import androidx.appcompat.app.AppCompatActivity;
 
 import com.google.gson.JsonObject;
-import com.pigo.india.modelsList.PackagesModel;
-import com.pigo.india.packages.adapter.PaymentToastsModel;
-import com.pigo.india.utills.AnalyticsTrackers;
-import com.pigo.india.utills.Network.RestService;
-import com.pigo.india.utills.SettingsMain;
-import com.pigo.india.utills.UrlController;
+import com.ABCD.india.modelsList.PackagesModel;
+import com.ABCD.india.packages.adapter.PaymentToastsModel;
+import com.ABCD.india.utills.AnalyticsTrackers;
+import com.ABCD.india.utills.Network.RestService;
+import com.ABCD.india.utills.SettingsMain;
+import com.ABCD.india.utills.UrlController;
 import com.razorpay.Checkout;
 import com.razorpay.PaymentResultListener;
-import com.pigo.india.R;
+import com.ABCD.india.R;
 import com.stripe.android.model.Token;
 
 import org.json.JSONException;
