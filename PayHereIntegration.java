@@ -1,4 +1,4 @@
-package com.pigo.india.packages;
+package com.ABCD.india.packages;
 
 import android.app.Activity;
 import android.app.AlertDialog;
@@ -116,8 +116,8 @@ public class PayHereIntegration extends Activity implements PaymentResultListene
 
         try {
             JSONObject options = new JSONObject();
-            options.put("name", "Pigo India");
-            options.put("description", "An online platform to buy and sell pets");
+            options.put("name", "ABCD");
+            options.put("description", "description");
             options.put("send_sms_hash",true);
             options.put("allow_rotation", true);
             //You can omit the image option to fetch the image from dashboard
