@@ -1,4 +1,10 @@
-package com.pigo.india.packages;
+
+
+//FOR EXAMPLE - PAYSTACK PAYMENT PROVIDED BY ADFOREST
+
+
+
+package com.ABCD.india.packages;
 
 import android.app.ProgressDialog;
 import android.content.Intent;
@@ -24,13 +30,13 @@ import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
 
-import com.pigo.india.R;
-import com.pigo.india.packages.PaystackControllers.PaystackEndPoint;
-import com.pigo.india.packages.PaystackControllers.RetrofitPaystackClient;
-import com.pigo.india.packages.adapter.PaymentToastsModel;
-import com.pigo.india.utills.Network.RestService;
-import com.pigo.india.utills.SettingsMain;
-import com.pigo.india.utills.UrlController;
+import com.ABCD.india.R;
+import com.ABCD.india.packages.PaystackControllers.PaystackEndPoint;
+import com.ABCD.india.packages.PaystackControllers.RetrofitPaystackClient;
+import com.ABCD.india.packages.adapter.PaymentToastsModel;
+import com.ABCD.india.utills.Network.RestService;
+import com.ABCD.india.utills.SettingsMain;
+import com.ABCD.india.utills.UrlController;
 
 import com.google.gson.JsonObject;
 
