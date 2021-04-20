@@ -1,4 +1,9 @@
-package com.pigo.india.packages;
+
+
+//FOR EXAMPLE - STRIPE PAYMENT PROVIDED BY ADFOREST
+
+
+package com.ABCD.india.packages;
 
 import android.app.AlertDialog;
 import android.content.DialogInterface;
@@ -39,11 +44,11 @@ import okhttp3.ResponseBody;
 import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
-import com.pigo.india.R;
-import com.pigo.india.utills.AnalyticsTrackers;
-import com.pigo.india.utills.Network.RestService;
-import com.pigo.india.utills.SettingsMain;
-import com.pigo.india.utills.UrlController;
+import com.ABCD.india.R;
+import com.ABCD.india.utills.AnalyticsTrackers;
+import com.ABCD.india.utills.Network.RestService;
+import com.ABCD.india.utills.SettingsMain;
+import com.ABCD.india.utills.UrlController;
 
 public class StripePayment extends AppCompatActivity {
 
